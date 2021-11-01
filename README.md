@@ -2,7 +2,7 @@
 - 👀 I’m interested in painting and printmaking
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on a zine
-- 📫 How to reach me  ahostvedt#gmail.com
+- 📫 How to reach me  ahostvedt@gmail.com
 
 <!---
 ieniwef/ieniwef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
